@@ -7,8 +7,7 @@
 <tr>
 <td>
   
-  React & Node.js project was based on [Ulbi's online store](https://github.com/utimur/online-store-full-course), added styles on tailwind and 
-slightly changed design. Store with card's pages, category sorting, Auth with middleware and Admin-Page ( where you can add more items to shop )
+  React & Node.js project with styles on tailwind. Store with card's pages, category sorting, Auth with middleware and Admin-Page ( where you can add more items to shop )
 </tr>
 </table>
 
